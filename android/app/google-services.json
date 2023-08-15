@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1017522571761",
+    "firebase_url": "https://test-fa435-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "test-fa435",
+    "storage_bucket": "test-fa435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017522571761:android:e2f5f11ffdce6dd5695c50",
+        "android_client_info": {
+          "package_name": "com.example.pqbuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017522571761-mau7777m2gedfjaiah2a7vtoaf53v0ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWy1QAiHKFqm-KCF0aX3z6QDiLhdPhxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017522571761-mau7777m2gedfjaiah2a7vtoaf53v0ut.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1017522571761-jahlh4e4s8qko62u6kkjrlkgli023pnc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sqlTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017522571761:android:2ad66876e1fb1c8a695c50",
+        "android_client_info": {
+          "package_name": "com.example.sql_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017522571761-mau7777m2gedfjaiah2a7vtoaf53v0ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWy1QAiHKFqm-KCF0aX3z6QDiLhdPhxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017522571761-mau7777m2gedfjaiah2a7vtoaf53v0ut.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1017522571761-jahlh4e4s8qko62u6kkjrlkgli023pnc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sqlTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

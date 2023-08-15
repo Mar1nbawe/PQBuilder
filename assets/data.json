@@ -1,0 +1,3321 @@
+﻿{
+    "Sheet1": [
+        {
+          "Air P": "3",
+          "Atk": "21",
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Crit C": "55",
+          "Crit P": "6",
+          "Floor": "GD",
+          "Name": "Wind Cutter"
+        },
+        {
+          "Atk": "53",
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Def": "-28",
+          "Eva": "25",
+          "Floor": "GD",
+          "Name": "Shower Spear",
+          "Water P": "7"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Floor": "GD",
+          "HP": "-25",
+          "Heal": "64",
+          "Mag": "28",
+          "Name": "Bubble Blower Wand",
+          "Water R": "3"
+        },
+        {
+          "Atk": "28",
+          "Category": "Weapons",
+          "Color": "Green",
+          "Crit P": "16",
+          "Earth P": "2",
+          "Floor": "GD",
+          "HP": "-25",
+          "Name": "Stone Fist Knuckles"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Fire R": "-8",
+          "Floor": "GD",
+          "HP": "26",
+          "Mag": "53",
+          "Mdef": "27",
+          "Name": "Candy Ribbon Staff"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Green",
+          "Earth P": "3",
+          "Floor": "GD",
+          "HP": "30",
+          "Heal": "25",
+          "Mag": "21",
+          "Name": "Rock Core Wand"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Red",
+          "Crit C": "46",
+          "Crit P": "3",
+          "Floor": "GD",
+          "Mag": "42",
+          "Name": "Sunflare Bow"
+        },
+        {
+          "Atk": "53",
+          "Category": "Weapons",
+          "Color": "Red",
+          "Eva": "50",
+          "Floor": "GD",
+          "Name": "Death Bringer",
+          "Water R": "-8"
+        },
+        {
+          "Atk": "28",
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Crit C": "-64",
+          "Crit P": "9",
+          "Floor": "GD",
+          "Mag": "28",
+          "Name": "Electric Star"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Green",
+          "Crit C": "47",
+          "Crit P": "6",
+          "Earth P": "13",
+          "Floor": "F8",
+          "Mdef": "-16",
+          "Name": "Crescent Moon Daggers"
+        },
+        {
+          "Atk": "37",
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Fire P": "3",
+          "Floor": "F8",
+          "Heal": "-24",
+          "Mag": "37",
+          "Name": "Moonfire Harp"
+        },
+        {
+          "Air P": "-6",
+          "Category": "Weapons",
+          "Color": "Red",
+          "Fire P": "12",
+          "Floor": "F8",
+          "Mag": "46",
+          "Name": "Flare Crossbow"
+        },
+        {
+          "Atk": "44",
+          "Category": "Weapons",
+          "Color": "Red",
+          "Crit P": "11",
+          "Floor": "F8",
+          "Mdef": "-33",
+          "Name": "Raos Magma Claw"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Green",
+          "Eva": "-22",
+          "Floor": "F8",
+          "HP": "18",
+          "Heal": "22",
+          "Mag": "44",
+          "Name": "Full Moon Staff"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Blue",
+          "Crit P": "14",
+          "Earth R": "-12",
+          "Floor": "GD",
+          "HP": "68",
+          "Name": "Spiritwalker Geta"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Yellow",
+          "Crit C": "126",
+          "Eva": "68",
+          "Fire R": "-6",
+          "Floor": "GD",
+          "Name": "Spiritwalker Hat",
+          "Water R": "-6"
+        },
+        {
+          "Atk": "35",
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Earth R": "-12",
+          "Floor": "GD",
+          "Heal": "72",
+          "Name": "Dawnbringer Sword"
+        },
+        {
+          "Air P": "7",
+          "Category": "Off-Hand",
+          "Color": "Red",
+          "Earth P": "7",
+          "Fire P": "7",
+          "Floor": "GD",
+          "Name": "Elemental Wand",
+          "Water P": "7"
+        },
+        {
+          "Air R": "24",
+          "Category": "Armor",
+          "Color": "Red",
+          "Fire P": "19",
+          "Floor": "GD",
+          "Name": "Dawn Dragon Armor",
+          "Water R": "-12"
+        },
+        {
+          "Air P": "13",
+          "Atk": "28",
+          "Category": "Hat",
+          "Color": "Blue",
+          "Earth R": "-10",
+          "Floor": "GD",
+          "Mag": "28",
+          "Name": "Dawn Dragon Hat"
+        },
+        {
+          "Agl": "48",
+          "Category": "Armor",
+          "Color": "Yellow",
+          "Def": "77",
+          "Floor": "GD",
+          "Name": "Dusk Dragon Armor",
+          "Water R": "-12"
+        },
+        {
+          "Atk": "48",
+          "Category": "Hat",
+          "Color": "Blue",
+          "Earth R": "-12",
+          "Floor": "GD",
+          "Heal": "58",
+          "Name": "Dusk Dragon Hat"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Blue",
+          "Def": "38",
+          "Earth R": "-12",
+          "Floor": "GD",
+          "HP": "68",
+          "Mdef": "38",
+          "Name": "Skeleton Core Armor"
+        },
+        {
+          "Atk": "35",
+          "Category": "Weapons",
+          "Color": "Red",
+          "Floor": "GD",
+          "Mdef": "97",
+          "Name": "Dragon Tailbone Whip",
+          "Water R": "-12"
+        },
+        {
+          "Atk": "35",
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Crit C": "157",
+          "Fire R": "-12",
+          "Floor": "GD",
+          "Name": "Dragon Bone Katana"
+        },
+        {
+          "Air R": "-12",
+          "Category": "Hat",
+          "Color": "Red",
+          "Floor": "GD",
+          "Mag": "60",
+          "Name": "Skeleton Dragon Helmet",
+          "Water R": "17"
+        },
+        {
+          "Agl": "48",
+          "Category": "Accessory",
+          "Color": "Yellow",
+          "Earth R": "-12",
+          "Floor": "GD",
+          "Heal": "58",
+          "Name": "Dragon Skull Necklace"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Red",
+          "Def": "51",
+          "Fire P": "8",
+          "Floor": "GD",
+          "Mdef": "51",
+          "Name": "Dragon-Forged Hammer",
+          "Water R": "-6"
+        },
+        {
+          "Atk": "24",
+          "Category": "Belt",
+          "Color": "Red",
+          "Earth R": "-12",
+          "Floor": "GD",
+          "Heal": "58",
+          "Mag": "24",
+          "Name": "Dragon Tail Belt"
+        },
+        {
+          "Agl": "27",
+          "Air P": "14",
+          "Category": "Armor",
+          "Color": "Red",
+          "Earth R": "-10",
+          "Floor": "GD",
+          "Mdef": "44",
+          "Name": "Dragon Armor"
+        },
+        {
+          "Agl": "34",
+          "Air R": "-9",
+          "Category": "Hat",
+          "Color": "Red",
+          "Eva": "25",
+          "Fire R": "8",
+          "Floor": "F7",
+          "Name": "Dragon Egg Hat"
+        },
+        {
+          "Air R": "-9",
+          "Category": "Belt",
+          "Color": "Blue",
+          "Crit C": "88",
+          "Floor": "F7",
+          "Mag": "34",
+          "Name": "Dragon Egg Belt"
+        },
+        {
+          "Atk": "35",
+          "Category": "Belt",
+          "Color": "Blue",
+          "Fire R": "-7",
+          "Floor": "GD",
+          "Name": "Lunar Belt",
+          "Water R": "25"
+        },
+        {
+          "Air R": "-12",
+          "Category": "Weapons",
+          "Color": "Green",
+          "Earth P": "14",
+          "Floor": "GD",
+          "Mag": "60",
+          "Name": "Lunar Ritual Knife"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Green",
+          "Fire R": "17",
+          "Floor": "GD",
+          "Mdef": "97",
+          "Name": "Drow Boots",
+          "Water R": "-12"
+        },
+        {
+          "Air R": "-12",
+          "Category": "Belt",
+          "Color": "Green",
+          "Crit C": "137",
+          "Floor": "GD",
+          "Mag": "48",
+          "Name": "Magic Earth Belt"
+        },
+        {
+          "Air R": "-6",
+          "Category": "Off-Hand",
+          "Color": "Green",
+          "Earth P": "14",
+          "Fire R": "-6",
+          "Floor": "GD",
+          "Mag": "60",
+          "Name": "Magic Earth Orb"
+        },
+        {
+          "Air R": "-12",
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Earth P": "13",
+          "Floor": "GD",
+          "Mag": "14",
+          "Name": "Crossbow",
+          "Water P": "19"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Red",
+          "Def": "66",
+          "Floor": "F8",
+          "Mdef": "66",
+          "Name": "Forged Helmet",
+          "Water R": "-10"
+        },
+        {
+          "Atk": "51",
+          "Category": "Off-Hand",
+          "Color": "Yellow",
+          "Eva": "42",
+          "Fire R": "-10",
+          "Floor": "F8",
+          "Name": "Air Forged Blade"
+        },
+        {
+          "Air R": "-5",
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Crit C": "107",
+          "Crit P": "12",
+          "Fire R": "-5",
+          "Floor": "F8",
+          "Name": "Water Forged Blade"
+        },
+        {
+          "Air R": "-10",
+          "Category": "Shoes",
+          "Color": "Red",
+          "Def": "66",
+          "Earth R": "20",
+          "Floor": "F8",
+          "Name": "Forged Boots"
+        },
+        {
+          "Air R": "20",
+          "Category": "Belt",
+          "Color": "Yellow",
+          "Earth R": "20",
+          "Fire R": "-10",
+          "Floor": "F8",
+          "Name": "Forged Belt"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Red",
+          "Earth R": "-10",
+          "Eva": "28",
+          "Fire R": "20",
+          "Floor": "F8",
+          "HP": "28",
+          "Name": "Fire Forged Blade"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Green",
+          "Eva": "57",
+          "Floor": "F8",
+          "Heal": "49",
+          "Name": "Lunar Boots",
+          "Water R": "-10"
+        },
+        {
+          "Air R": "-10",
+          "Category": "Accessory",
+          "Color": "Green",
+          "Floor": "F8",
+          "Heal": "49",
+          "Mag": "41",
+          "Name": "Lunar Bracelet"
+        },
+        {
+          "Air R": "10",
+          "Category": "Off-Hand",
+          "Color": "Blue",
+          "Earth R": "10",
+          "Fire R": "-10",
+          "Floor": "F8",
+          "Name": "Moon Shield",
+          "Water R": "20"
+        },
+        {
+          "Atk": "41",
+          "Category": "Accessory",
+          "Color": "Yellow",
+          "Crit P": "12",
+          "Fire R": "-10",
+          "Floor": "F8",
+          "Name": "Salty Tears Earrings"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Yellow",
+          "Crit C": "107",
+          "Fire R": "-5",
+          "Floor": "F8",
+          "Mdef": "66",
+          "Name": "Salt Chestplate",
+          "Water R": "-5"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Green",
+          "Earth R": "-10",
+          "Floor": "F8",
+          "HP": "57",
+          "Heal": "49",
+          "Name": "Salt Lance Hat"
+        },
+        {
+          "Atk": "34",
+          "Category": "Shoes",
+          "Color": "Yellow",
+          "Fire R": "-9",
+          "Floor": "F7",
+          "Heal": "40",
+          "Name": "Assassin Boots"
+        },
+        {
+          "Agl": "34",
+          "Atk": "17",
+          "Category": "Weapons",
+          "Color": "Green",
+          "Crit C": "44",
+          "Floor": "F7",
+          "Name": "Assassin Blade",
+          "Water R": "-9"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Yellow",
+          "Crit C": "88",
+          "Floor": "F7",
+          "Mag": "34",
+          "Name": "Magic Blade",
+          "Water R": "-9"
+        },
+        {
+          "Atk": "-13",
+          "Category": "Off-Hand",
+          "Color": "Green",
+          "Def": "53",
+          "Floor": "F6",
+          "HP": "27",
+          "Name": "Salt Shield"
+        },
+        {
+          "Agl": "13",
+          "Atk": "13",
+          "Category": "Armor",
+          "Color": "Green",
+          "Fire P": "-7",
+          "Floor": "F6",
+          "Heal": "33",
+          "Name": "Wood Armor"
+        },
+        {
+          "Air R": "-7",
+          "Category": "Off-Hand",
+          "Color": "Blue",
+          "Crit C": "71",
+          "Floor": "F6",
+          "Name": "Water Bomb",
+          "Water P": "11"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Red",
+          "Crit C": "71",
+          "Floor": "F6",
+          "Heal": "-18",
+          "Mag": "27",
+          "Name": "Fire Bomb"
+        },
+        {
+          "Agl": "27",
+          "Category": "Shoes",
+          "Color": "Blue",
+          "Floor": "F6",
+          "HP": "38",
+          "Mdef": "-25",
+          "Name": "Salt Boots"
+        },
+        {
+          "Atk": "16",
+          "Category": "Off-Hand",
+          "Color": "Yellow",
+          "Floor": "F5",
+          "Heal": "19",
+          "Name": "Seashell Shield"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Blue",
+          "Floor": "F5",
+          "Mag": "32",
+          "Name": "Wolf Hat"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Green",
+          "Def": "18",
+          "Floor": "F5",
+          "HP": "13",
+          "Mdef": "18",
+          "Name": "Forest Sword"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Blue",
+          "Eva": "22",
+          "Floor": "F5",
+          "Heal": "19",
+          "Name": "Stillwater Armor"
+        },
+        {
+          "Atk": "28",
+          "Category": "Accessory",
+          "Color": "Blue",
+          "Floor": "F5",
+          "Name": "Bubble Bracelet"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Blue",
+          "Def": "26",
+          "Floor": "F5",
+          "Mdef": "26",
+          "Name": "Water Belt"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Green",
+          "Eva": "17",
+          "Floor": "F4",
+          "Heal": "15",
+          "Name": "Snake Ring"
+        },
+        {
+          "Atk": "25",
+          "Category": "Hat",
+          "Color": "Yellow",
+          "Floor": "F4",
+          "Name": "Snake Helmet"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Red",
+          "Eva": "17",
+          "Floor": "F4",
+          "Mag": "12",
+          "Name": "Furnace Gauntlet"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Red",
+          "Floor": "F4",
+          "HP": "17",
+          "Mag": "12",
+          "Name": "Furnace Belt"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Red",
+          "Crit C": "33",
+          "Floor": "F4",
+          "Mag": "12",
+          "Name": "Iridescent Armor"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Red",
+          "Floor": "F4",
+          "Heal": "15",
+          "Mag": "12",
+          "Name": "Iridescent Boots"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Red",
+          "Def": "20",
+          "Floor": "F4",
+          "Mdef": "20",
+          "Name": "Furnace Pendant"
+        },
+        {
+          "Atk": "12",
+          "Category": "Hat",
+          "Color": "Red",
+          "Def": "9",
+          "Floor": "F4",
+          "Mdef": "10",
+          "Name": "Furnace Hat"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Green",
+          "Eva": "25",
+          "Floor": "F3",
+          "Name": "Cocoon Belt"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Green",
+          "Crit C": "23",
+          "Eva": "9",
+          "Floor": "F3",
+          "Name": "Spidersilk Boots"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Blue",
+          "Crit C": "46",
+          "Floor": "F3",
+          "Name": "Spidersilk Hat"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Green",
+          "Floor": "F3",
+          "HP": "12",
+          "Mag": "9",
+          "Name": "Plate Shield"
+        },
+        {
+          "Atk": "9",
+          "Category": "Armor",
+          "Color": "Green",
+          "Eva": "12",
+          "Floor": "F3",
+          "Name": "Plate Armor"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Yellow",
+          "Eva": "25",
+          "Floor": "F3",
+          "Name": "Cocoon Ring"
+        },
+        {
+          "Atk": "9",
+          "Category": "Shoes",
+          "Color": "Blue",
+          "Floor": "F3",
+          "Heal": "10",
+          "Name": "Frozen Plate Boots"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Blue",
+          "Floor": "F3",
+          "Heal": "21",
+          "Name": "Frozen Plate Belt"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Red",
+          "Def": "4",
+          "Fire P": "1",
+          "Floor": "F2",
+          "Mag": "8",
+          "Name": "Magic Fire Wand"
+        },
+        {
+          "Atk": "5",
+          "Category": "Off-Hand",
+          "Color": "Red",
+          "Floor": "F2",
+          "Mdef": "9",
+          "Name": "Wisp Power Glove",
+          "Water P": "1"
+        },
+        {
+          "Atk": "5",
+          "Category": "Belt",
+          "Color": "Red",
+          "Crit C": "15",
+          "Fire P": "1",
+          "Floor": "F2",
+          "Name": "Wisp Belt"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Red",
+          "Floor": "F2",
+          "HP": "8",
+          "Mag": "5",
+          "Name": "Magic Fire Hat",
+          "Water P": "1"
+        },
+        {
+          "Air P": "1",
+          "Atk": "8",
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Floor": "F2",
+          "Mdef": "4",
+          "Name": "Beak Axe"
+        },
+        {
+          "Agl": "5",
+          "Air P": "1",
+          "Category": "Belt",
+          "Color": "Yellow",
+          "Crit C": "15",
+          "Floor": "F2",
+          "Name": "Beak Belt"
+        },
+        {
+          "Air R": "1",
+          "Category": "Armor",
+          "Color": "Yellow",
+          "Floor": "F2",
+          "HP": "8",
+          "Mag": "5",
+          "Name": "Feather Chest"
+        },
+        {
+          "Air P": "1",
+          "Category": "Shoes",
+          "Color": "Yellow",
+          "Eva": "16",
+          "Floor": "F2",
+          "Name": "Steel Boots"
+        },
+        {
+          "Atk": "12",
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Crit C": "15",
+          "Eva": "29",
+          "Floor": "F8",
+          "HP": "29",
+          "Name": "Steel Rapier"
+        },
+        {
+          "Air P": "8",
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Def": "13",
+          "Floor": "F8",
+          "HP": "18",
+          "Heal": "22",
+          "Name": "Enchanted Hand Fan"
+        },
+        {
+          "Atk": "25",
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Crit C": "26",
+          "Earth P": "6",
+          "Floor": "F7",
+          "Name": "Saltbang Hammer"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Green",
+          "Floor": "F7",
+          "HP": "28",
+          "Heal": "12",
+          "Mag": "20",
+          "Name": "Regrowth Staff"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Crit C": "52",
+          "Earth R": "5",
+          "Fire R": "5",
+          "Floor": "F7",
+          "Mag": "10",
+          "Name": "Magma Wand"
+        },
+        {
+          "Atk": "25",
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Crit C": "46",
+          "Crit P": "-4",
+          "Fire P": "10",
+          "Floor": "F7",
+          "Name": "Magma Trident"
+        },
+        {
+          "Atk": "25",
+          "Category": "Weapons",
+          "Color": "Red",
+          "Crit C": "-54",
+          "Def": "32",
+          "Floor": "F7",
+          "Mdef": "32",
+          "Name": "Forger Hammer"
+        },
+        {
+          "Air P": "10",
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Fire P": "10",
+          "Floor": "F7",
+          "Name": "Explosive Christmas Ball"
+        },
+        {
+          "Atk": "30",
+          "Category": "Weapons",
+          "Color": "Red",
+          "Def": "-16",
+          "Fire P": "15",
+          "Floor": "F7",
+          "Mdef": "-12",
+          "Name": "Venom Slasher"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Eva": "-17",
+          "Floor": "F6",
+          "Heal": "22",
+          "Mag": "32",
+          "Name": "Ticking Staff"
+        },
+        {
+          "Atk": "20",
+          "Category": "Weapons",
+          "Color": "Red",
+          "Fire P": "8",
+          "Floor": "F6",
+          "Name": "Twinfire Rod"
+        },
+        {
+          "Atk": "20",
+          "Category": "Weapons",
+          "Color": "Green",
+          "Floor": "F6",
+          "Mag": "20",
+          "Name": "Harpy's Zither"
+        },
+        {
+          "Agl": "-3",
+          "Atk": "16",
+          "Category": "Weapons",
+          "Color": "Red",
+          "Crit C": "37",
+          "Floor": "F6",
+          "HP": "17",
+          "Name": "Roc Hammer"
+        },
+        {
+          "Agl": "8",
+          "Atk": "9",
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Crit C": "29",
+          "Crit P": "3",
+          "Floor": "F6",
+          "Name": "Elite Spear"
+        },
+        {
+          "Air P": "4",
+          "Atk": "20",
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Floor": "F6",
+          "Heal": "10",
+          "Name": "Storm Wand"
+        },
+        {
+          "Atk": "20",
+          "Category": "Weapons",
+          "Color": "Green",
+          "Eva": "-12",
+          "Floor": "F6",
+          "HP": "40",
+          "Name": "Heavy Longbow"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Def": "18",
+          "Floor": "F6",
+          "Heal": "18",
+          "Mdef": "18",
+          "Name": "Longlife Rock"
+        },
+        {
+          "Atk": "8",
+          "Category": "Weapons",
+          "Color": "Green",
+          "Def": "12",
+          "Earth P": "3",
+          "Floor": "F5",
+          "Mag": "12",
+          "Name": "Stalasword"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Green",
+          "Earth P": "12",
+          "Floor": "F5",
+          "Name": "Cannooner"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Crit C": "34",
+          "Fire P": "2",
+          "Floor": "F5",
+          "Name": "Steam Rifle",
+          "Water P": "5"
+        },
+        {
+          "Agl": "7",
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Fire P": "9",
+          "Floor": "F5",
+          "Name": "Vibris Crossbow"
+        },
+        {
+          "Atk": "32",
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Floor": "F5",
+          "Name": "Left Slasher"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Red",
+          "Floor": "F5",
+          "HP": "9",
+          "Mag": "26",
+          "Name": "Spiderleg Staff"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Red",
+          "Floor": "F4",
+          "Heal": "12",
+          "Mag": "20",
+          "Mdef": "-8",
+          "Name": "Candy Cane Staff"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Crit C": "42",
+          "Floor": "F4",
+          "Mag": "8",
+          "Name": "Steamdwarf Spyglass"
+        },
+        {
+          "Agl": "-5",
+          "Atk": "20",
+          "Category": "Weapons",
+          "Color": "Red",
+          "Def": "16",
+          "Floor": "F4",
+          "Name": "Iron Fist"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Def": "15",
+          "Floor": "F4",
+          "HP": "6",
+          "Mdef": "15",
+          "Name": "Rod of Shield"
+        },
+        {
+          "Atk": "10",
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Def": "-8",
+          "Floor": "F4",
+          "HP": "28",
+          "Name": "Left Stick"
+        },
+        {
+          "Agl": "12",
+          "Atk": "12",
+          "Category": "Weapons",
+          "Color": "Green",
+          "Crit C": "12",
+          "Def": "-7",
+          "Floor": "F4",
+          "Name": "Shambling Spear"
+        },
+        {
+          "Agl": "8",
+          "Atk": "12",
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Crit P": "1",
+          "Floor": "F4",
+          "Name": "Lycan Polearm"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Green",
+          "Floor": "F4",
+          "Heal": "18",
+          "Mag": "10",
+          "Name": "Entangled Staff"
+        },
+        {
+          "Agl": "-3",
+          "Atk": "21",
+          "Category": "Weapons",
+          "Color": "Red",
+          "Floor": "F3",
+          "Name": "Chief Broadsword"
+        },
+        {
+          "Atk": "14",
+          "Category": "Weapons",
+          "Color": "Red",
+          "Crit C": "9",
+          "Floor": "F3",
+          "Name": "Warg Axe"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Red",
+          "Floor": "F3",
+          "Heal": "5",
+          "Mag": "14",
+          "Name": "Hagly Falcet"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Green",
+          "Floor": "F3",
+          "Heal": "12",
+          "Mag": "8",
+          "Name": "Rocky Hammer"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Crit C": "9",
+          "Floor": "F3",
+          "Mag": "14",
+          "Name": "Focus Wand"
+        },
+        {
+          "Agl": "-8",
+          "Atk": "13",
+          "Category": "Weapons",
+          "Color": "Green",
+          "Def": "20",
+          "Floor": "F3",
+          "Name": "Stuck Dagger"
+        },
+        {
+          "Agl": "5",
+          "Atk": "13",
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Floor": "F3",
+          "Name": "Harpy Bow"
+        },
+        {
+          "Atk": "9",
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Floor": "F3",
+          "HP": "12",
+          "Name": "Sulfunest Sword"
+        },
+        {
+          "Atk": "11",
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Crit C": "17",
+          "Floor": "F3",
+          "Name": "Short Spear"
+        },
+        {
+          "Atk": "8",
+          "Category": "Weapons",
+          "Color": "Green",
+          "Crit C": "9",
+          "Floor": "F2",
+          "Name": "Spider Bow"
+        },
+        {
+          "Agl": "7",
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Floor": "F2",
+          "Mag": "6",
+          "Name": "Lightwood Staff"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Green",
+          "Earth P": "1",
+          "Floor": "F2",
+          "Mag": "9",
+          "Name": "Mud Bender"
+        },
+        {
+          "Atk": "12",
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Floor": "F2",
+          "Name": "Stinger Dagger"
+        },
+        {
+          "Agl": "7",
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Crit C": "6",
+          "Floor": "F2",
+          "HP": "3",
+          "Name": "Dark Scythe"
+        },
+        {
+          "Air P": "1",
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Floor": "F2",
+          "Mag": "9",
+          "Name": "Beaked Staff"
+        },
+        {
+          "Air P": "1",
+          "Atk": "9",
+          "Category": "Weapons",
+          "Color": "Red",
+          "Floor": "F2",
+          "Name": "Burning Club"
+        },
+        {
+          "Atk": "3",
+          "Category": "Weapons",
+          "Color": "Red",
+          "Floor": "F1",
+          "HP": "4",
+          "Name": "Rusty Sword"
+        },
+        {
+          "Agl": "1",
+          "Atk": "4",
+          "Category": "Weapons",
+          "Color": "Green",
+          "Floor": "F1",
+          "Name": "Sling"
+        },
+        {
+          "Atk": "3",
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Crit C": "8",
+          "Floor": "F1",
+          "Name": "Dagger"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Blue",
+          "Floor": "F1",
+          "Mag": "6",
+          "Name": "Dirty Staff"
+        },
+        {
+          "Atk": "6",
+          "Category": "Weapons",
+          "Color": "Green",
+          "Floor": "F1",
+          "Name": "Denticure Mace"
+        },
+        {
+          "Atk": "4",
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Floor": "F1",
+          "Mag": "2",
+          "Name": "Blacked Spear"
+        },
+        {
+          "Atk": "35",
+          "Category": "Accessory",
+          "Color": "Red",
+          "Floor": "GD",
+          "Mag": "35",
+          "Name": "Gold Christmas Earrings"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Green",
+          "Earth R": "3",
+          "Eva": "60",
+          "Floor": "GD",
+          "HP": "20",
+          "Name": "Mud Ring",
+          "Water R": "3"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Blue",
+          "Fire P": "7",
+          "Fire R": "8",
+          "Floor": "GD",
+          "Name": "Sparkling Earrings",
+          "Water P": "7",
+          "Water R": "8"
+        },
+        {
+          "Air P": "7",
+          "Category": "Accessory",
+          "Color": "Yellow",
+          "Earth P": "7",
+          "Fire P": "7",
+          "Floor": "GD",
+          "Name": "Ring of Four",
+          "Water P": "7"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Blue",
+          "Eva": "30",
+          "Floor": "GD",
+          "Heal": "34",
+          "Name": "Still Water Bracelet",
+          "Water P": "8"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Red",
+          "Def": "34",
+          "Floor": "GD",
+          "HP": "40",
+          "Mdef": "34",
+          "Name": "Fire Cup Bracelet"
+        },
+        {
+          "Atk": "17",
+          "Category": "Accessory",
+          "Color": "Yellow",
+          "Def": "-28",
+          "Floor": "GD",
+          "Heal": "64",
+          "Mdef": "28",
+          "Name": "Lotus Pendant"
+        },
+        {
+          "Air P": "7",
+          "Air R": "8",
+          "Category": "Accessory",
+          "Color": "Green",
+          "Earth P": "7",
+          "Earth R": "8",
+          "Floor": "GD",
+          "Name": "Still Earrings"
+        },
+        {
+          "Atk": "37",
+          "Category": "Accessory",
+          "Color": "Green",
+          "Crit C": "41",
+          "Crit P": "6",
+          "Def": "-19",
+          "Floor": "F8",
+          "Name": "Shadow Gauntlet"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Red",
+          "Def": "72",
+          "Fire R": "6",
+          "Floor": "F8",
+          "Heal": "-18",
+          "Mdef": "29",
+          "Name": "True Fire Ring"
+        },
+        {
+          "Air R": "12",
+          "Atk": "-15",
+          "Category": "Accessory",
+          "Color": "Yellow",
+          "Eva": "8",
+          "Floor": "F8",
+          "Mag": "44",
+          "Name": "Windshield Ring"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Red",
+          "Fire P": "15",
+          "Floor": "F8",
+          "Heal": "53",
+          "Name": "Fire Breath Scroll",
+          "Water R": "-10"
+        },
+        {
+          "Air R": "7",
+          "Category": "Accessory",
+          "Color": "Blue",
+          "Earth R": "7",
+          "Fire R": "7",
+          "Floor": "F8",
+          "Name": "Christmas Ring",
+          "Water R": "7"
+        },
+        {
+          "Air R": "5",
+          "Category": "Accessory",
+          "Color": "Red",
+          "Def": "28",
+          "Earth P": "5",
+          "Floor": "F7",
+          "Name": "Dam Trinket",
+          "Water R": "5"
+        },
+        {
+          "Air P": "8",
+          "Atk": "20",
+          "Category": "Accessory",
+          "Color": "Yellow",
+          "Crit C": "52",
+          "Def": "-16",
+          "Floor": "F7",
+          "Name": "Venom Pot"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Blue",
+          "Crit C": "-48",
+          "Floor": "F7",
+          "Mag": "25",
+          "Name": "Salt Everheat Ring",
+          "Water P": "15"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Red",
+          "Crit C": "65",
+          "Eva": "35",
+          "Floor": "F7",
+          "Name": "Red Christmas Earrings"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Green",
+          "Def": "8",
+          "Floor": "F7",
+          "HP": "35",
+          "Mdef": "32",
+          "Name": "Twintail Pendant"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Red",
+          "Crit C": "58",
+          "Crit P": "5",
+          "Floor": "F6",
+          "Name": "Dwarf Corepump"
+        },
+        {
+          "Agl": "16",
+          "Category": "Accessory",
+          "Color": "Green",
+          "Crit C": "-32",
+          "Def": "25",
+          "Floor": "F6",
+          "Mag": "16",
+          "Name": "Tempered Greave"
+        },
+        {
+          "Atk": "18",
+          "Category": "Accessory",
+          "Color": "Red",
+          "Crit C": "10",
+          "Floor": "F6",
+          "HP": "25",
+          "Name": "Strength Anklet"
+        },
+        {
+          "Agl": "-6",
+          "Atk": "20",
+          "Category": "Accessory",
+          "Color": "Blue",
+          "Crit P": "8",
+          "Floor": "F6",
+          "Name": "Dry Salt Cuffs"
+        },
+        {
+          "Atk": "16",
+          "Category": "Accessory",
+          "Color": "Green",
+          "Crit C": "23",
+          "Crit P": "2",
+          "Floor": "F5",
+          "Name": "Ring of True Aim"
+        },
+        {
+          "Atk": "13",
+          "Category": "Accessory",
+          "Color": "Red",
+          "Floor": "F5",
+          "HP": "9",
+          "Mag": "13",
+          "Name": "Two Arts Earring"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Yellow",
+          "Eva": "22",
+          "Floor": "F5",
+          "Mag": "16",
+          "Name": "Ghost Pendant"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Blue",
+          "Floor": "F5",
+          "Mag": "32",
+          "Name": "Medium Mark"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Yellow",
+          "Crit C": "115",
+          "Floor": "F5",
+          "Name": "Taser Ring"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Blue",
+          "Floor": "F4",
+          "Heal": "12",
+          "Mag": "15",
+          "Name": "Rod of Healing"
+        },
+        {
+          "Atk": "12",
+          "Category": "Accessory",
+          "Color": "Yellow",
+          "Floor": "F4",
+          "HP": "17",
+          "Name": "Sharpener Scabbard"
+        },
+        {
+          "Atk": "12",
+          "Category": "Accessory",
+          "Color": "Red",
+          "Floor": "F4",
+          "Mag": "12",
+          "Name": "Steamy Armbands"
+        },
+        {
+          "Atk": "6",
+          "Category": "Accessory",
+          "Color": "Green",
+          "Def": "10",
+          "Floor": "F4",
+          "Mag": "6",
+          "Mdef": "10",
+          "Name": "Barkloop"
+        },
+        {
+          "Air P": "4",
+          "Category": "Accessory",
+          "Color": "Red",
+          "Def": "7",
+          "Floor": "F3",
+          "Mag": "5",
+          "Name": "Warm Wind Pendant"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Blue",
+          "Floor": "F3",
+          "Mag": "18",
+          "Name": "Obscured Ring"
+        },
+        {
+          "Atk": "14",
+          "Category": "Accessory",
+          "Color": "Yellow",
+          "Crit C": "9",
+          "Floor": "F3",
+          "Name": "Sulfurcip Ring"
+        },
+        {
+          "Agl": "5",
+          "Category": "Accessory",
+          "Color": "Green",
+          "Crit C": "9",
+          "Floor": "F3",
+          "HP": "12",
+          "Name": "Minor Tail Lover"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Green",
+          "Def": "19",
+          "Floor": "F2",
+          "Name": "Christmas Scarf"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Green",
+          "Floor": "F2",
+          "Mdef": "19",
+          "Name": "Stud Ring"
+        },
+        {
+          "Atk": "12",
+          "Category": "Accessory",
+          "Color": "Blue",
+          "Floor": "F2",
+          "Name": "Woodsting Ring"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Yellow",
+          "Floor": "F2",
+          "HP": "16",
+          "Name": "Tribe Pendant"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Red",
+          "Floor": "F2",
+          "Mag": "12",
+          "Name": "Pumpkin Pendant"
+        },
+        {
+          "Agl": "1",
+          "Category": "Accessory",
+          "Color": "Blue",
+          "Floor": "F1",
+          "HP": "1",
+          "Mag": "3",
+          "Name": "Rusty Ring"
+        },
+        {
+          "Agl": "3",
+          "Category": "Accessory",
+          "Color": "Yellow",
+          "Crit C": "8",
+          "Floor": "F1",
+          "Name": "Claw Ring"
+        },
+        {
+          "Category": "Accessory",
+          "Color": "Red",
+          "Def": "9",
+          "Floor": "F1",
+          "Name": "Tempered Ring"
+        },
+        {
+          "Atk": "3",
+          "Category": "Accessory",
+          "Color": "Red",
+          "Floor": "F1",
+          "HP": "4",
+          "Name": "Iron Bracelet"
+        },
+        {
+          "Agl": "-17",
+          "Category": "Hat",
+          "Color": "Green",
+          "Crit C": "139",
+          "Crit P": "5",
+          "Eva": "25",
+          "Floor": "GD",
+          "Name": "Cyclopic Hat"
+        },
+        {
+          "Agl": "7",
+          "Category": "Hat",
+          "Color": "Blue",
+          "Crit C": "139",
+          "Floor": "GD",
+          "HP": "-25",
+          "Mag": "28",
+          "Name": "Bubble Hat"
+        },
+        {
+          "Agl": "53",
+          "Atk": "17",
+          "Category": "Hat",
+          "Color": "Yellow",
+          "Eva": "25",
+          "Floor": "GD",
+          "Mdef": "-28",
+          "Name": "Eye of the Hat"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Green",
+          "Def": "46",
+          "Earth R": "6",
+          "Floor": "F8",
+          "Heal": "37",
+          "Mdef": "-20",
+          "Name": "Blight Helmet"
+        },
+        {
+          "Atk": "44",
+          "Category": "Hat",
+          "Color": "Red",
+          "Crit C": "-61",
+          "Eva": "18",
+          "Fire P": "8",
+          "Floor": "F8",
+          "Name": "Dragonwing Helmet"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Blue",
+          "Crit P": "-6",
+          "Fire P": "8",
+          "Floor": "F8",
+          "HP": "51",
+          "Mag": "24",
+          "Name": "Fire Wall Hat"
+        },
+        {
+          "Agl": "13",
+          "Category": "Hat",
+          "Color": "Yellow",
+          "Crit C": "44",
+          "Def": "-24",
+          "Floor": "F8",
+          "Mdef": "72",
+          "Name": "Ethereal Hairband"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Blue",
+          "Def": "24",
+          "Earth R": "9",
+          "Floor": "F7",
+          "Name": "Salt Helmet",
+          "Water R": "9"
+        },
+        {
+          "Air P": "6",
+          "Category": "Hat",
+          "Color": "Yellow",
+          "Crit P": "6",
+          "Earth P": "6",
+          "Floor": "F7",
+          "Name": "Encara's Ribbon"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Red",
+          "Fire P": "11",
+          "Floor": "F7",
+          "Mag": "38",
+          "Name": "Flaming Drowhood",
+          "Water R": "-7"
+        },
+        {
+          "Agl": "20",
+          "Category": "Hat",
+          "Color": "Green",
+          "Earth P": "3",
+          "Earth R": "4",
+          "Floor": "F7",
+          "HP": "18",
+          "Name": "Twin Eclipse Helmet"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Yellow",
+          "Crit C": "40",
+          "Def": "18",
+          "Floor": "F6",
+          "Mdef": "18",
+          "Name": "Roc Hat"
+        },
+        {
+          "Air P": "7",
+          "Atk": "16",
+          "Category": "Hat",
+          "Color": "Red",
+          "Fire R": "-5",
+          "Floor": "F6",
+          "HP": "22",
+          "Name": "Silky Hat"
+        },
+        {
+          "Atk": "9",
+          "Category": "Hat",
+          "Color": "Blue",
+          "Def": "16",
+          "Floor": "F6",
+          "Mag": "9",
+          "Mdef": "16",
+          "Name": "Genius Hat"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Yellow",
+          "Eva": "9",
+          "Floor": "F6",
+          "Heal": "18",
+          "Mag": "16",
+          "Name": "Christmas Hat"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Green",
+          "Def": "11",
+          "Floor": "F6",
+          "HP": "22",
+          "Mdef": "25",
+          "Name": "Bearhead Helmet"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Yellow",
+          "Def": "19",
+          "Floor": "F5",
+          "HP": "9",
+          "Mag": "13",
+          "Name": "High Barrel"
+        },
+        {
+          "Agl": "16",
+          "Atk": "9",
+          "Category": "Hat",
+          "Color": "Red",
+          "Crit C": "25",
+          "Def": "-6",
+          "Floor": "F5",
+          "Name": "Wererat Hood"
+        },
+        {
+          "Atk": "22",
+          "Category": "Hat",
+          "Color": "Blue",
+          "Crit P": "3",
+          "Floor": "F5",
+          "Name": "Hammerhead"
+        },
+        {
+          "Air P": "-3",
+          "Category": "Hat",
+          "Color": "Yellow",
+          "Crit P": "5",
+          "Eva": "31",
+          "Floor": "F5",
+          "Name": "Tri-plume Cap"
+        },
+        {
+          "Atk": "12",
+          "Category": "Hat",
+          "Color": "Green",
+          "Crit C": "31",
+          "Floor": "F4",
+          "Name": "Crocodile Helmet"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Red",
+          "Def": "10",
+          "Floor": "F4",
+          "Mag": "12",
+          "Mdef": "9",
+          "Name": "Enchanted Helm"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Yellow",
+          "Crit C": "31",
+          "Floor": "F4",
+          "Mag": "12",
+          "Name": "Root Helix Helm"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Yellow",
+          "Def": "21",
+          "Floor": "F4",
+          "HP": "17",
+          "Name": "Ramcorn Hat"
+        },
+        {
+          "Atk": "9",
+          "Category": "Hat",
+          "Color": "Yellow",
+          "Floor": "F3",
+          "HP": "12",
+          "Name": "Resistant Hat"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Green",
+          "Floor": "F3",
+          "HP": "5",
+          "Mag": "6",
+          "Mdef": "12",
+          "Name": "Hagly Hat"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Blue",
+          "Crit C": "9",
+          "Def": "11",
+          "Floor": "F3",
+          "Mdef": "11",
+          "Name": "Myconid Helmet"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Yellow",
+          "Eva": "12",
+          "Floor": "F3",
+          "Heal": "10",
+          "Name": "S'now Head"
+        },
+        {
+          "Agl": "5",
+          "Category": "Hat",
+          "Color": "Red",
+          "Crit C": "9",
+          "Crit P": "3",
+          "Floor": "F3",
+          "Name": "Pointed Helm"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Blue",
+          "Def": "9",
+          "Floor": "F2",
+          "Mdef": "9",
+          "Name": "Corroded Helmet"
+        },
+        {
+          "Atk": "5",
+          "Category": "Hat",
+          "Color": "Red",
+          "Crit C": "4",
+          "Floor": "F2",
+          "HP": "7",
+          "Name": "Squig Cap"
+        },
+        {
+          "Air P": "1",
+          "Atk": "9",
+          "Category": "Hat",
+          "Color": "Yellow",
+          "Floor": "F2",
+          "Name": "Yellow Gem Tiara"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Green",
+          "Fire P": "1",
+          "Floor": "F2",
+          "Mag": "9",
+          "Name": "Red Gem Tiara"
+        },
+        {
+          "Category": "Hat",
+          "Color": "Green",
+          "Floor": "F1",
+          "HP": "4",
+          "Mag": "3",
+          "Name": "Apprentice Hood"
+        },
+        {
+          "Agl": "1",
+          "Category": "Hat",
+          "Color": "Yellow",
+          "Floor": "F1",
+          "Mdef": "7",
+          "Name": "Claw Hood"
+        },
+        {
+          "Agl": "1",
+          "Category": "Hat",
+          "Color": "Red",
+          "Def": "7",
+          "Floor": "F1",
+          "Name": "Blacked Helm"
+        },
+        {
+          "Atk": "3",
+          "Category": "Hat",
+          "Color": "Blue",
+          "Floor": "F1",
+          "HP": "4",
+          "Name": "Mummy Turban"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Green",
+          "Earth P": "6",
+          "Floor": "GD",
+          "Mag": "53",
+          "Mdef": "-28",
+          "Name": "Magic Root Vest",
+          "Water R": "10"
+        },
+        {
+          "Air P": "6",
+          "Atk": "35",
+          "Category": "Armor",
+          "Color": "Red",
+          "Crit P": "2",
+          "Fire P": "6",
+          "Floor": "GD",
+          "Name": "Warm Wind Armor"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Blue",
+          "Def": "45",
+          "Eva": "20",
+          "Floor": "GD",
+          "Mdef": "45",
+          "Name": "Reflective Chestplate"
+        },
+        {
+          "Atk": "-12",
+          "Category": "Armor",
+          "Color": "Blue",
+          "Crit C": "107",
+          "Crit P": "7",
+          "Fire P": "3",
+          "Floor": "F8",
+          "Name": "Moonshadow Cape"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Green",
+          "Earth P": "12",
+          "Earth R": "7",
+          "Floor": "F8",
+          "Name": "Tower Chestscale",
+          "Water R": "7"
+        },
+        {
+          "Atk": "-12",
+          "Category": "Armor",
+          "Color": "Green",
+          "Def": "72",
+          "Floor": "F8",
+          "Mag": "-10",
+          "Mdef": "60",
+          "Name": "Gibbous Saltplate"
+        },
+        {
+          "Agl": "-18",
+          "Atk": "24",
+          "Category": "Armor",
+          "Color": "Yellow",
+          "Floor": "F8",
+          "HP": "42",
+          "Mag": "24",
+          "Name": "Vest of Cores"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Red",
+          "Earth R": "-6",
+          "Floor": "F8",
+          "HP": "63",
+          "Mag": "30",
+          "Name": "Blood Vest"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Red",
+          "Earth R": "10",
+          "Fire R": "10",
+          "Floor": "F7",
+          "Heal": "31",
+          "Name": "Fireforged Chestplate",
+          "Water R": "-7"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Green",
+          "Def": "-28",
+          "Floor": "F7",
+          "Heal": "36",
+          "Mag": "38",
+          "Name": "Spidersilk Vest"
+        },
+        {
+          "Atk": "25",
+          "Category": "Armor",
+          "Color": "Yellow",
+          "Floor": "F7",
+          "HP": "35",
+          "Name": "Veteran Armor"
+        },
+        {
+          "Agl": "13",
+          "Category": "Armor",
+          "Color": "Blue",
+          "Eva": "18",
+          "Floor": "F7",
+          "HP": "18",
+          "Mdef": "18",
+          "Name": "Vest of Shield"
+        },
+        {
+          "Atk": "16",
+          "Category": "Armor",
+          "Color": "Blue",
+          "Floor": "F6",
+          "HP": "11",
+          "Mag": "16",
+          "Name": "Caped Armor"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Blue",
+          "Def": "31",
+          "Floor": "F6",
+          "Mdef": "31",
+          "Name": "Steamdwarf Chestplate"
+        },
+        {
+          "Atk": "20",
+          "Category": "Armor",
+          "Color": "Green",
+          "Def": "-15",
+          "Eva": "40",
+          "Floor": "F6",
+          "Name": "Modular Armor"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Yellow",
+          "Crit C": "50",
+          "Eva": "28",
+          "Floor": "F6",
+          "Name": "Spiraling Cape"
+        },
+        {
+          "Agl": "7",
+          "Atk": "9",
+          "Category": "Armor",
+          "Color": "Red",
+          "Floor": "F5",
+          "HP": "22",
+          "Name": "Light Curass"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Blue",
+          "Def": "10",
+          "Fire P": "6",
+          "Floor": "F5",
+          "Mag": "9",
+          "Name": "Fire Shirt"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Yellow",
+          "Eva": "22",
+          "Floor": "F5",
+          "HP": "22",
+          "Name": "Christmas Tunic"
+        },
+        {
+          "Air P": "12",
+          "Category": "Armor",
+          "Color": "Yellow",
+          "Floor": "F5",
+          "Name": "Skull Armor"
+        },
+        {
+          "Atk": "27",
+          "Category": "Belt",
+          "Color": "Yellow",
+          "Crit C": "71",
+          "Def": "-25",
+          "Floor": "F6",
+          "Name": "Saltbark Belt"
+        },
+        {
+          "Air R": "-9",
+          "Category": "Accessory",
+          "Color": "Red",
+          "Floor": "F7",
+          "Mag": "34",
+          "Mdef": "54",
+          "Name": "Dragon Shell Ring"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Green",
+          "Def": "10",
+          "Floor": "F5",
+          "Heal": "18",
+          "Mdef": "15",
+          "Name": "Saltbark Armor"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Blue",
+          "Def": "16",
+          "Floor": "F4",
+          "Mdef": "11",
+          "Name": "Hubercrab Armor",
+          "Water R": "4"
+        },
+        {
+          "Air R": "4",
+          "Category": "Armor",
+          "Color": "Green",
+          "Def": "9",
+          "Floor": "F4",
+          "HP": "7",
+          "Mdef": "9",
+          "Name": "Root Armor"
+        },
+        {
+          "Atk": "18",
+          "Category": "Armor",
+          "Color": "Red",
+          "Floor": "F4",
+          "Name": "Steam Armor",
+          "Water P": "3"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Blue",
+          "Floor": "F4",
+          "Mag": "18",
+          "Name": "Water Armor",
+          "Water R": "4"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Blue",
+          "Def": "18",
+          "Eva": "-8",
+          "Floor": "F3",
+          "Mdef": "18",
+          "Name": "Heavy Armor"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Green",
+          "Floor": "F3",
+          "HP": "5",
+          "Mag": "6",
+          "Mdef": "12",
+          "Name": "Hagly Vest"
+        },
+        {
+          "Atk": "6",
+          "Category": "Armor",
+          "Color": "Red",
+          "Floor": "F3",
+          "HP": "5",
+          "Mdef": "12",
+          "Name": "Beetle Scale Armor"
+        },
+        {
+          "Atk": "11",
+          "Category": "Armor",
+          "Color": "Yellow",
+          "Eva": "11",
+          "Floor": "F3",
+          "Name": "Spider Armor"
+        },
+        {
+          "Agl": "5",
+          "Category": "Armor",
+          "Color": "Green",
+          "Def": "10",
+          "Floor": "F2",
+          "Name": "Leather Spaulders"
+        },
+        {
+          "Atk": "6",
+          "Category": "Armor",
+          "Color": "Yellow",
+          "Crit C": "15",
+          "Floor": "F2",
+          "Name": "Feather Cloak"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Red",
+          "Def": "5",
+          "Floor": "F2",
+          "HP": "7",
+          "Mdef": "5",
+          "Name": "Minor Skinner Vest"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Blue",
+          "Crit C": "15",
+          "Floor": "F2",
+          "Mag": "6",
+          "Name": "Shiny Cape"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Red",
+          "Eva": "8",
+          "Floor": "F1",
+          "Name": "S'now Armor"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Green",
+          "Def": "9",
+          "Floor": "F1",
+          "Name": "Digested Armor"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Blue",
+          "Floor": "F1",
+          "Mdef": "9",
+          "Name": "Resistant Poncho"
+        },
+        {
+          "Category": "Armor",
+          "Color": "Yellow",
+          "Floor": "F1",
+          "HP": "8",
+          "Name": "Improvised Breastplate"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Blue",
+          "Def": "34",
+          "Eva": "40",
+          "Floor": "GD",
+          "Mdef": "34",
+          "Name": "Gold Foil Chocolate Belt"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Red",
+          "Crit P": "4",
+          "Fire P": "6",
+          "Fire R": "7",
+          "Floor": "GD",
+          "Mag": "28",
+          "Name": "Warm Embrace Belt"
+        },
+        {
+          "Atk": "53",
+          "Category": "Belt",
+          "Color": "Green",
+          "Def": "-28",
+          "Earth P": "6",
+          "Earth R": "10",
+          "Floor": "GD",
+          "Name": "Stone Fist Belt"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Red",
+          "Def": "-25",
+          "Floor": "F8",
+          "Mag": "46",
+          "Mdef": "48",
+          "Name": "Will-o'belt"
+        },
+        {
+          "Atk": "31",
+          "Category": "Belt",
+          "Color": "Blue",
+          "Eva": "44",
+          "Floor": "F8",
+          "Name": "True Strike Belt"
+        },
+        {
+          "Atk": "37",
+          "Category": "Belt",
+          "Color": "Yellow",
+          "Crit C": "61",
+          "Earth P": "6",
+          "Fire P": "-6",
+          "Floor": "F8",
+          "Name": "Shot-putter Belt"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Blue",
+          "Crit P": "4",
+          "Eva": "-21",
+          "Floor": "F8",
+          "HP": "22",
+          "Heal": "55",
+          "Name": "Chocolate Coin Belt"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Green",
+          "Def": "48",
+          "Floor": "F8",
+          "HP": "29",
+          "Mdef": "14",
+          "Name": "Ashes Belt"
+        },
+        {
+          "Atk": "38",
+          "Category": "Belt",
+          "Color": "Blue",
+          "Floor": "F7",
+          "Mdef": "-20",
+          "Name": "Viper Belt",
+          "Water R": "12"
+        },
+        {
+          "Atk": "5",
+          "Category": "Belt",
+          "Color": "Yellow",
+          "Crit C": "81",
+          "Crit P": "6",
+          "Def": "-12",
+          "Floor": "F7",
+          "Name": "Webbelt"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Green",
+          "Crit C": "65",
+          "Def": "40",
+          "Floor": "F7",
+          "Name": "Thorn Belt"
+        },
+        {
+          "Air P": "-5",
+          "Category": "Belt",
+          "Color": "Red",
+          "Fire R": "6",
+          "Floor": "F7",
+          "Heal": "31",
+          "Mag": "25",
+          "Name": "Magyman Belt"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Blue",
+          "Earth P": "4",
+          "Earth R": "5",
+          "Floor": "F6",
+          "Name": "Swamp Belt",
+          "Water P": "4",
+          "Water R": "5"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Yellow",
+          "Floor": "F6",
+          "Heal": "15",
+          "Mag": "16",
+          "Name": "Dark Elf Belt",
+          "Water P": "4"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Green",
+          "Crit C": "52",
+          "Eva": "28",
+          "Floor": "F6",
+          "Name": "Smoking Pumpkin Belt"
+        },
+        {
+          "Atk": "20",
+          "Category": "Belt",
+          "Color": "Red",
+          "Earth P": "4",
+          "Fire P": "4",
+          "Floor": "F6",
+          "Name": "Dynamite Belt"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Green",
+          "Crit P": "3",
+          "Def": "22",
+          "Eva": "-8",
+          "Floor": "F5",
+          "Mdef": "22",
+          "Name": "Impact Belt"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Blue",
+          "Crit C": "23",
+          "Floor": "F5",
+          "HP": "9",
+          "Mag": "16",
+          "Name": "Master Towel"
+        },
+        {
+          "Agl": "7",
+          "Atk": "9",
+          "Category": "Belt",
+          "Color": "Yellow",
+          "Crit C": "38",
+          "Floor": "F5",
+          "Name": "Full Moon Belt"
+        },
+        {
+          "Atk": "16",
+          "Category": "Belt",
+          "Color": "Red",
+          "Fire P": "6",
+          "Floor": "F5",
+          "Name": "Slashing Belt"
+        },
+        {
+          "Air P": "5",
+          "Category": "Belt",
+          "Color": "Yellow",
+          "Crit C": "20",
+          "Floor": "F4",
+          "HP": "6",
+          "Name": "Wolf Collar"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Red",
+          "Def": "10",
+          "Fire P": "3",
+          "Floor": "F4",
+          "HP": "5",
+          "Mdef": "10",
+          "Name": "Steamy Belt"
+        },
+        {
+          "Agl": "17",
+          "Category": "Belt",
+          "Color": "Green",
+          "Crit C": "20",
+          "Eva": "-10",
+          "Fire R": "4",
+          "Floor": "F4",
+          "Name": "Baboon Belt"
+        },
+        {
+          "Air R": "4",
+          "Atk": "9",
+          "Category": "Belt",
+          "Color": "Blue",
+          "Floor": "F4",
+          "Name": "Sea Breeze Band",
+          "Water R": "4"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Blue",
+          "Floor": "F3",
+          "HP": "12",
+          "Mag": "9",
+          "Name": "Venom Polished Belt"
+        },
+        {
+          "Agl": "3",
+          "Atk": "9",
+          "Category": "Belt",
+          "Color": "Yellow",
+          "Crit C": "13",
+          "Floor": "F3",
+          "Name": "Silverslash Belt"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Red",
+          "Earth P": "2",
+          "Floor": "F3",
+          "Mag": "8",
+          "Name": "Bicolor Belt",
+          "Water P": "2"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Green",
+          "Floor": "F2",
+          "HP": "4",
+          "Mag": "5",
+          "Mdef": "5",
+          "Name": "Padded Belt"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Red",
+          "Floor": "F2",
+          "HP": "16",
+          "Name": "Croco-Fire Belt"
+        },
+        {
+          "Agl": "3",
+          "Category": "Belt",
+          "Color": "Blue",
+          "Def": "7",
+          "Floor": "F2",
+          "Mdef": "7",
+          "Name": "Enchanted Buckle"
+        },
+        {
+          "Atk": "5",
+          "Category": "Belt",
+          "Color": "Yellow",
+          "Def": "5",
+          "Floor": "F2",
+          "HP": "4",
+          "Name": "Leather Belt"
+        },
+        {
+          "Atk": "5",
+          "Category": "Belt",
+          "Color": "Yellow",
+          "Crit C": "2",
+          "Floor": "F1",
+          "Name": "Feather Belt"
+        },
+        {
+          "Agl": "1",
+          "Category": "Belt",
+          "Color": "Red",
+          "Floor": "F1",
+          "Mag": "3",
+          "Mdef": "1",
+          "Name": "Component Pouch"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Green",
+          "Def": "4",
+          "Floor": "F1",
+          "HP": "4",
+          "Name": "Christmas Cake Belt"
+        },
+        {
+          "Category": "Belt",
+          "Color": "Blue",
+          "Floor": "F1",
+          "HP": "4",
+          "Mdef": "4",
+          "Name": "Fang Belt"
+        },
+        {
+          "Atk": "28",
+          "Category": "Shoes",
+          "Color": "Green",
+          "Floor": "GD",
+          "HP": "30",
+          "Heal": "25",
+          "Name": "Mud Boots"
+        },
+        {
+          "Air P": "7",
+          "Category": "Shoes",
+          "Color": "Yellow",
+          "Crit C": "46",
+          "Crit P": "5",
+          "Floor": "GD",
+          "Name": "Boots of Storm",
+          "Water P": "7"
+        },
+        {
+          "Agl": "7",
+          "Atk": "28",
+          "Category": "Shoes",
+          "Color": "Blue",
+          "Crit C": "139",
+          "Eva": "-25",
+          "Floor": "GD",
+          "Name": "Elegant Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Red",
+          "Def": "28",
+          "Fire P": "7",
+          "Floor": "GD",
+          "HP": "75",
+          "Name": "Magmatic Boots",
+          "Water R": "-8"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Yellow",
+          "Crit C": "46",
+          "Crit P": "5",
+          "Floor": "GD",
+          "HP": "-25",
+          "Mag": "53",
+          "Name": "Tempest Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Yellow",
+          "Def": "29",
+          "Floor": "GD",
+          "HP": "-26",
+          "Heal": "21",
+          "Mdef": "85",
+          "Name": "Christmas Stocking Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Blue",
+          "Eva": "44",
+          "Floor": "F8",
+          "Mag": "31",
+          "Name": "Hover Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Red",
+          "Floor": "F8",
+          "Heal": "36",
+          "Mag": "31",
+          "Name": "Magma Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Yellow",
+          "Crit C": "99",
+          "Crit P": "13",
+          "Floor": "F8",
+          "Mag": "-21",
+          "Name": "Drow Shoes"
+        },
+        {
+          "Atk": "16",
+          "Category": "Shoes",
+          "Color": "Green",
+          "Def": "22",
+          "Floor": "F8",
+          "HP": "22",
+          "Mdef": "22",
+          "Name": "Rocky Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Yellow",
+          "Crit C": "65",
+          "Earth P": "5",
+          "Eva": "18",
+          "Floor": "F7",
+          "Name": "Citrine Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Green",
+          "Def": "32",
+          "Fire P": "8",
+          "Fire R": "5",
+          "Floor": "F7",
+          "Name": "Infire Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Red",
+          "Fire P": "5",
+          "Floor": "F7",
+          "HP": "21",
+          "Mdef": "60",
+          "Name": "Eyed Shoes",
+          "Water P": "-6"
+        },
+        {
+          "Agl": "8",
+          "Atk": "15",
+          "Category": "Shoes",
+          "Color": "Blue",
+          "Floor": "F7",
+          "HP": "7",
+          "Mdef": "34",
+          "Name": "Darkscale Boots"
+        },
+        {
+          "Atk": "29",
+          "Category": "Shoes",
+          "Color": "Yellow",
+          "Crit P": "3",
+          "Eva": "-14",
+          "Floor": "F6",
+          "HP": "14",
+          "Name": "Xorn Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Green",
+          "Earth P": "4",
+          "Floor": "F6",
+          "HP": "17",
+          "Mag": "17",
+          "Name": "Fungi Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Red",
+          "Def": "39",
+          "Fire R": "-2",
+          "Floor": "F6",
+          "Mdef": "39",
+          "Name": "Metal Hooves",
+          "Water R": "-2"
+        },
+        {
+          "Agl": "12",
+          "Category": "Shoes",
+          "Color": "Blue",
+          "Crit C": "29",
+          "Eva": "22",
+          "Floor": "F6",
+          "Name": "Christmas Boots"
+        },
+        {
+          "Air P": "3",
+          "Air R": "4",
+          "Category": "Shoes",
+          "Color": "Green",
+          "Fire P": "3",
+          "Fire R": "4",
+          "Floor": "F5",
+          "Name": "Firestorm Shoes"
+        },
+        {
+          "Category": "Weapons",
+          "Color": "Yellow",
+          "Eva": "22",
+          "Floor": "F5",
+          "Heal": "19",
+          "Name": "Spiritual Blade"
+        },
+        {
+          "Atk": "16",
+          "Category": "Shoes",
+          "Color": "Green",
+          "Floor": "F5",
+          "Mdef": "26",
+          "Name": "Midnight Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Blue",
+          "Floor": "F5",
+          "Heal": "27",
+          "Mdef": "15",
+          "Name": "Skullcup Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Yellow",
+          "Crit C": "15",
+          "Floor": "F5",
+          "HP": "9",
+          "Mag": "19",
+          "Name": "Vibistitched Shoes"
+        },
+        {
+          "Atk": "15",
+          "Category": "Shoes",
+          "Color": "Red",
+          "Crit C": "2",
+          "Def": "7",
+          "Floor": "F5",
+          "Mdef": "7",
+          "Name": "Spiderwolf Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Yellow",
+          "Floor": "F4",
+          "HP": "17",
+          "Mag": "12",
+          "Name": "Bat Shoes"
+        },
+        {
+          "Atk": "12",
+          "Category": "Shoes",
+          "Color": "Yellow",
+          "Crit C": "24",
+          "Crit P": "1",
+          "Floor": "F4",
+          "Name": "Lycan Boots"
+        },
+        {
+          "Atk": "12",
+          "Category": "Shoes",
+          "Color": "Red",
+          "Eva": "16",
+          "Floor": "F4",
+          "Name": "Nonslip Socks"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Green",
+          "Def": "15",
+          "Floor": "F4",
+          "HP": "22",
+          "Name": "Cave Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Blue",
+          "Floor": "F4",
+          "Mag": "9",
+          "Mdef": "12",
+          "Name": "Steam Boots",
+          "Water P": "3"
+        },
+        {
+          "Agl": "3",
+          "Category": "Shoes",
+          "Color": "Red",
+          "Floor": "F3",
+          "HP": "7",
+          "Mag": "9",
+          "Name": "Polished Shoes"
+        },
+        {
+          "Agl": "3",
+          "Atk": "9",
+          "Category": "Shoes",
+          "Color": "Yellow",
+          "Floor": "F3",
+          "HP": "7",
+          "Name": "Wolfy Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Blue",
+          "Def": "14",
+          "Floor": "F3",
+          "Mdef": "14",
+          "Name": "S'now Legs"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Green",
+          "Crit C": "18",
+          "Def": "6",
+          "Floor": "F3",
+          "HP": "10",
+          "Name": "Myconid Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Blue",
+          "Def": "15",
+          "Floor": "F2",
+          "Mdef": "3",
+          "Name": "Miasmatic Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Green",
+          "Def": "3",
+          "Floor": "F2",
+          "Mdef": "15",
+          "Name": "Solid Boots"
+        },
+        {
+          "Agl": "3",
+          "Atk": "3",
+          "Category": "Shoes",
+          "Color": "Yellow",
+          "Floor": "F2",
+          "HP": "7",
+          "Name": "Pointed Shoes"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Red",
+          "Eva": "4",
+          "Floor": "F2",
+          "HP": "7",
+          "Mag": "3",
+          "Name": "Mist Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Yellow",
+          "Def": "9",
+          "Floor": "F1",
+          "Name": "Beaked Shoes"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Green",
+          "Floor": "F1",
+          "Mag": "9",
+          "Name": "Rat Boots"
+        },
+        {
+          "Category": "Shoes",
+          "Color": "Red",
+          "Eva": "4",
+          "Floor": "F1",
+          "Mag": "3",
+          "Name": "Comfy Shoes"
+        },
+        {
+          "Atk": "28",
+          "Category": "Off-Hand",
+          "Color": "Blue",
+          "Eva": "20",
+          "Floor": "GD",
+          "Mag": "28",
+          "Name": "Mirror Shield"
+        },
+        {
+          "Agl": "-14",
+          "Category": "Off-Hand",
+          "Color": "Green",
+          "Def": "68",
+          "Floor": "GD",
+          "Mdef": "68",
+          "Name": "Stone Shield"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Yellow",
+          "Crit C": "137",
+          "Eva": "-24",
+          "Floor": "GD",
+          "HP": "24",
+          "Heal": "22",
+          "Name": "Shooting Star Shield"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Red",
+          "Crit C": "-64",
+          "Crit P": "5",
+          "Def": "57",
+          "Floor": "GD",
+          "Mdef": "57",
+          "Name": "Inferno Shield"
+        },
+        {
+          "Air R": "7",
+          "Category": "Off-Hand",
+          "Color": "Red",
+          "Fire P": "6",
+          "Floor": "F8",
+          "Heal": "36",
+          "Name": "Purefire Trinket"
+        },
+        {
+          "Agl": "18",
+          "Category": "Off-Hand",
+          "Color": "Yellow",
+          "Crit C": "29",
+          "Def": "48",
+          "Floor": "F8",
+          "Name": "Mouth Shield"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Blue",
+          "Floor": "F8",
+          "Heal": "16",
+          "Mag": "46",
+          "Mdef": "-25",
+          "Name": "Evermoon Jewel",
+          "Water P": "7"
+        },
+        {
+          "Atk": "46",
+          "Category": "Off-Hand",
+          "Color": "Green",
+          "Def": "-24",
+          "Earth P": "7",
+          "Floor": "F8",
+          "HP": "17",
+          "Name": "Salty Greatsword"
+        },
+        {
+          "Atk": "44",
+          "Category": "Off-Hand",
+          "Color": "Blue",
+          "Crit C": "15",
+          "Fire R": "12",
+          "Floor": "F8",
+          "Mag": "-15",
+          "Name": "Fire Absorbing Arrows"
+        },
+        {
+          "Agl": "22",
+          "Category": "Off-Hand",
+          "Color": "Green",
+          "Def": "36",
+          "Eva": "-25",
+          "Floor": "F7",
+          "Mdef": "36",
+          "Name": "Holed Shield"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Red",
+          "Earth R": "-7",
+          "Fire P": "15",
+          "Floor": "F7",
+          "Heal": "33",
+          "Name": "Heatstone"
+        },
+        {
+          "Atk": "-18",
+          "Category": "Off-Hand",
+          "Color": "Yellow",
+          "Crit C": "97",
+          "Crit P": "9",
+          "Floor": "F7",
+          "Name": "Portal Armband"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Blue",
+          "Fire P": "6",
+          "Floor": "F7",
+          "Mag": "20",
+          "Name": "Salt Yearbook",
+          "Water P": "6"
+        },
+        {
+          "Atk": "25",
+          "Category": "Off-Hand",
+          "Color": "Red",
+          "Eva": "35",
+          "Floor": "F7",
+          "Name": "Candy Basket"
+        },
+        {
+          "Atk": "12",
+          "Category": "Off-Hand",
+          "Color": "Blue",
+          "Crit C": "18",
+          "Crit P": "6",
+          "Floor": "F6",
+          "Name": "Water Blaster"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Green",
+          "Floor": "F6",
+          "Heal": "24",
+          "Mdef": "30",
+          "Name": "Holy Water Flask"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Yellow",
+          "Floor": "F6",
+          "HP": "28",
+          "Mag": "20",
+          "Name": "Endless Potion"
+        },
+        {
+          "Agl": "-16",
+          "Category": "Off-Hand",
+          "Color": "Red",
+          "Def": "45",
+          "Floor": "F6",
+          "Mdef": "45",
+          "Name": "Heavy Shield"
+        },
+        {
+          "Atk": "22",
+          "Category": "Off-Hand",
+          "Color": "Yellow",
+          "Crit C": "24",
+          "Floor": "F5",
+          "Name": "Right Slasher"
+        },
+        {
+          "Agl": "-7",
+          "Atk": "9",
+          "Category": "Off-Hand",
+          "Color": "Green",
+          "Crit C": "41",
+          "Earth P": "5",
+          "Floor": "F5",
+          "Name": "Cannon Ball"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Red",
+          "Crit C": "34",
+          "Floor": "F5",
+          "HP": "13",
+          "Mdef": "15",
+          "Name": "Repulsive Arrows"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Blue",
+          "Floor": "F5",
+          "Heal": "18",
+          "Mag": "16",
+          "Name": "Water Bulb"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Red",
+          "Crit C": "-21",
+          "Eva": "35",
+          "Fire P": "5",
+          "Floor": "F5",
+          "Name": "Bag of Presents"
+        },
+        {
+          "Air R": "2",
+          "Category": "Off-Hand",
+          "Color": "Green",
+          "Earth R": "4",
+          "Fire R": "2",
+          "Floor": "F4",
+          "Name": "Shield of Four",
+          "Water R": "2"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Yellow",
+          "Def": "12",
+          "Eva": "11",
+          "Floor": "F4",
+          "Mag": "9",
+          "Name": "Trickery Essay"
+        },
+        {
+          "Atk": "6",
+          "Category": "Off-Hand",
+          "Color": "Red",
+          "Crit P": "1",
+          "Def": "8",
+          "Fire P": "3",
+          "Floor": "F4",
+          "Name": "Thorn Shield"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Blue",
+          "Def": "12",
+          "Floor": "F4",
+          "Mdef": "12",
+          "Name": "Water Shield",
+          "Water P": "3",
+          "Water R": "1"
+        },
+        {
+          "Atk": "7",
+          "Category": "Off-Hand",
+          "Color": "Green",
+          "Crit C": "9",
+          "Eva": "11",
+          "Floor": "F3",
+          "Name": "Oval Shield"
+        },
+        {
+          "Agl": "3",
+          "Atk": "14",
+          "Category": "Off-Hand",
+          "Color": "Yellow",
+          "Floor": "F3",
+          "Name": "Tribe Leader Mark"
+        },
+        {
+          "Agl": "3",
+          "Category": "Off-Hand",
+          "Color": "Red",
+          "Def": "7",
+          "Floor": "F3",
+          "HP": "8",
+          "Mdef": "5",
+          "Name": "Hairy Shield"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Blue",
+          "Floor": "F3",
+          "Heal": "3",
+          "Mag": "15",
+          "Name": "Hagly Talisman"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Blue",
+          "Floor": "F2",
+          "HP": "2",
+          "Mag": "3",
+          "Mdef": "7",
+          "Name": "Right Stick",
+          "Water P": "1"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Green",
+          "Def": "19",
+          "Floor": "F2",
+          "Name": "Wood Shield"
+        },
+        {
+          "Atk": "3",
+          "Category": "Off-Hand",
+          "Color": "Red",
+          "Def": "7",
+          "Fire P": "1",
+          "Floor": "F2",
+          "HP": "2",
+          "Name": "Blacked Arrows"
+        },
+        {
+          "Agl": "3",
+          "Air P": "1",
+          "Category": "Off-Hand",
+          "Color": "Yellow",
+          "Crit P": "1",
+          "Floor": "F2",
+          "HP": "2",
+          "Name": "Claw Arrows"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Blue",
+          "Crit C": "5",
+          "Floor": "F1",
+          "Mag": "4",
+          "Name": "Venom Talisman"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Blue",
+          "Crit C": "2",
+          "Floor": "F1",
+          "HP": "7",
+          "Name": "Silvery Egg"
+        },
+        {
+          "Category": "Off-Hand",
+          "Color": "Green",
+          "Def": "8",
+          "Floor": "F1",
+          "HP": "1",
+          "Name": "Croco-Buckler"
+        },
+        {
+          "Atk": "3",
+          "Category": "Off-Hand",
+          "Color": "Yellow",
+          "Eva": "4",
+          "Floor": "F1",
+          "Name": "Lucky Rod"
+        }
+      ]
+}
